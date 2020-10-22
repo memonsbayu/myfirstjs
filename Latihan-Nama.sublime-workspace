@@ -1,0 +1,277 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"fo",
+				"font-family\tproperty"
+			],
+			[
+				"ba",
+				"background-position\tproperty"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"u",
+				"url()\tbackground"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/XI RPL 3/KK4/KK4B/Latihan5_KK4B/Latihan5_KK4B/latihan1.js",
+		"/C/XI RPL 3/KK4/KK4B/Latihan5_KK4B/Latihan5_KK4B/Latihan2.js",
+		"/C/XI RPL 3/KK4/KK4B/Latihan5_KK4B/Latihan5_KK4B/Latihan3.js",
+		"/C/XI RPL 3/KK4/KK4B/Latihan5_KK4B/Latihan5_KK4B/Latihan-Nama.html",
+		"/C/Sublime Text 3/kk4-html-master/kk4-html-master/css/style.css",
+		"/C/Sublime Text 3/kk4-html-master/kk4-html-master/css/style1.css",
+		"/C/Sublime Text 3/kk4-html-master/kk4-html-master/css/style2.css",
+		"/C/Sublime Text 3/kk4-html-master/kk4-html-master/css/stylecontact.css",
+		"/C/Sublime Text 3/kk4-html-master/kk4-html-master/contact-us.html",
+		"/C/Sublime Text 3/kk4-html-master/kk4-html-master/index.html",
+		"/C/Sublime Text 3/kk4-html-master/kk4-html-master/menu.html",
+		"/C/Sublime Text 3/kk4-html-master/kk4-html-master/README.md",
+		"/C/Sublime Text 3/style.css",
+		"/C/Sublime Text 3/index.html",
+		"/C/Sublime Text 3/index2.html",
+		"/C/XI RPL 3/KK4/KK4B/latian mulu/login.html",
+		"/C/XI RPL 3/KK4/KK4B/latian mulu/jajan daring.html",
+		"/C/Sublime Text 3/web design/latihan satu.html",
+		"/C/XI RPL 3/KK4/KK4B/latian mulu/body.css",
+		"/C/XI RPL 3/KK4/KK4B/latian mulu/Mie njlu.html",
+		"/C/XI RPL 3/KK4/KK4B/latian mulu/style.css",
+		"/C/XI RPL 3/KK4/KK4B/latian mulu/button.css",
+		"/C/XI RPL 3/KK4/KK4B/latian mulu/html/html/style.css",
+		"/C/XI RPL 3/KK4/KK4B/latian mulu/latianCSS.html",
+		"/C/XI RPL 3/KK4/KK4B/latian mulu/html/html/LatihanCSS.html",
+		"/C/XI RPL 3/KK4/KK4B/latian mulu/html 2/html/style.css",
+		"/C/XI RPL 3/KK4/KK4B/latian mulu/html 2/html/LatihanCSS.html",
+		"/C/XI RPL 3/KK4/KK4B/latian mulu/LatihanCSS.html",
+		"/C/Sublime Text 3/anjoy",
+		"/C/Sublime Text 3/zaul.html",
+		"/C/Sublime Text 3/zaul2",
+		"/C/XI RPL 3/KK4/KK4B/html part 3/multimedia.html",
+		"/C/XI RPL 3/KK4/KK4B/html part 3/index.html",
+		"/C/XI RPL 3/KK4/KK4B/html part 3/ke2.html",
+		"/C/XI RPL 3/KK4/KK4B/html part 3/download.jpeg",
+		"/C/XI RPL 3/KK4/KK4B/html part 3/iframe.html",
+		"/C/XI RPL 3/KK4/KK4B/html part 3/iframe 2.html",
+		"/C/XI RPL 3/KK4/KK4B/html part 3/images (6).jpg",
+		"/C/Users/memon/Pictures/3c26bb2715c2426191fea17485a015dc[1].bmp",
+		"/C/XI RPL 3/KK4/KK4B/html part 3/ke1.html",
+		"/C/XI RPL 3/KK4/KK4B/html part 3/ke3.html",
+		"/C/XI RPL 3/KK4/KK4B/html part 3/ke4.html",
+		"/C/XI RPL 3/KK4/KK4B/html part 3/Komponen Button.html",
+		"/C/XI RPL 3/KK4/KK4B/html part 3/Komponen Datalist.html",
+		"/C/XI RPL 3/KK4/KK4B/html part 3/Komponen Input File.html",
+		"/C/XI RPL 3/KK4/KK4B/html part 3/Komponen Input Radio.html",
+		"/C/XI RPL 3/KK4/KK4B/html part 3/Komponen Input Text.html",
+		"/C/XI RPL 3/KK4/KK4B/html part 3/Komponen Select.html",
+		"/C/XI RPL 3/KK4/KK4B/html part 3/komponen checkbox.html",
+		"/C/HTML PART2/Tabel1.html",
+		"/C/HTML PART2/Tabel2.html",
+		"/C/HTML PART2/Tabel3.html",
+		"/C/HTML PART2/Tabel4.html",
+		"/C/HTML PART2/Tabel5.html",
+		"/C/Users/memon/Downloads/Latihan8.html",
+		"/C/Users/memon/Downloads/Latihan7.html",
+		"/C/Users/memon/Downloads/Latihan6.html",
+		"/C/Users/memon/Downloads/Latihan5.html",
+		"/C/Users/memon/Downloads/latihan4.html",
+		"/C/Users/memon/Downloads/Latihan3.html",
+		"/C/Users/memon/Downloads/Latihan2.html",
+		"/C/Users/memon/Downloads/Latihan1.html",
+		"/C/sewa alat olahraga/Awal aplikasi",
+		"/C/Users/memon/Pictures/kimi/profile 1/memonss.html"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Latihan-Nama.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 183.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
